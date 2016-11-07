@@ -1,2 +1,10 @@
 # hello-world
-Just another repository
+
+class Helworld;
+
+public static void main (String[] args) {
+    int main() {
+        System.out.println("Hello world!");
+    }
+}
+
